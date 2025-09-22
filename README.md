@@ -1,8 +1,8 @@
 **My personal Archlinux + Hyprland dotfiles**
 
 ## Base packages
-sudo pacman -S waybar swaync brightnessctl wofi btop hyprpaper hyprshot pavucontrol steam discord yay
+`sudo pacman -S waybar swaync brightnessctl wofi btop hyprpaper hyprshot pavucontrol steam discord yay`
 ## Fonts
-sudo pacman -S ttf-font-awesome ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono
+`sudo pacman -S ttf-font-awesome ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono`
 ## Use for a working gamepad
-yay -S game-devices-udev
+`yay -S game-devices-udev`
